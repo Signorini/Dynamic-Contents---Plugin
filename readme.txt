@@ -1,11 +1,11 @@
-=== PPN Notes ===
+=== Dynamic Contents ===
 Contributors: felipesignorini
-Tags: notes, pages, posts, box, text, block, postit, alarm, menssage
+Tags: notes, seo, list, generating, content
 Requires at least: 2.0.2
-Tested up to: 3.0
+Tested up to: 3.3.1
 Stable tag: 1.0
 
-This plugin, possibity to creat a note in pages or posts.
+This plugin, generatin list inteligent content
 
 == Description ==
 
