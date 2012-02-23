@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post & Page Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-page-notes\n"
+"POT-Creation-Date: 2009-12-23 19:22+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Felipe Signorini\n"
+"Language-Team: RaymondDesign <felipe.klerk@talk2.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+
+#: post-page-notes.php:28
+#: post-page-notes.php:35
+msgid "Options"
+msgstr "Opções"
+
+#: post-page-notes.php:47
+msgid "The post and page notes are succesfully updated."
+msgstr "O post ou a página foi atualizado com sucesso."
+
+#: post-page-notes.php:51
+msgid "An error occurred while updating, please try again."
+msgstr "Um erro aconteceu quando se atualizava, por favor tentar novamente."
+
+#: post-page-notes.php:75
+#: post-page-notes.php:87
+msgid "Header note"
+msgstr "Nota de cabeçalho"
+
+#: post-page-notes.php:80
+#: post-page-notes.php:100
+msgid "Show on"
+msgstr "Mostrar em"
+
+#: post-page-notes.php:81
+#: post-page-notes.php:101
+msgid "Post"
+msgstr "Post"
+
+#: post-page-notes.php:81
+#: post-page-notes.php:101
+msgid "Page"
+msgstr "Página"
+
+#: post-page-notes.php:87
+msgid "Type the text you want to place above the post (you can use HTML)."
+msgstr "Escreva o que irá aparecer (você pode utilizar HTML)."
+
+#: post-page-notes.php:95
+#: post-page-notes.php:107
+msgid "Footer note"
+msgstr "Nota do rodapé"
+
+#: post-page-notes.php:107
+msgid "Type the text you want to place under the post (you can use HTML)."
+msgstr "Escreva o que irá aparecer (você pode utilizar HTML)."
+
+#: post-page-notes.php:114
+msgid "Save changes"
+msgstr "Gravar mudanças"
+
+#: post-page-notes.php:117
+msgid "Information"
+msgstr "Informação"
+
+#: post-page-notes.php:119
+msgid "Thanks for using this plugin."
+msgstr "Obrigado por usar este plugin."
+
+#: post-page-notes.php:120
+#, php-format
+msgid "I like to get some feedback on this plugin, you can visit the %splugin page%s and write a comment.  Also when you have a question or suggestion you can visit that page."
+msgstr "."
+

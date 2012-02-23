@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post & Page Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-page-notes\n"
+"POT-Creation-Date: 2009-12-23 19:22+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Raymond\n"
+"Language-Team: RaymondDesign <webmaster@raymonddesign.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: post-page-notes.php:28
+#: post-page-notes.php:35
+msgid "Options"
+msgstr "Opties"
+
+#: post-page-notes.php:47
+msgid "The post and page notes are succesfully updated."
+msgstr "De bericht en pagina notities zijn succesvol ge&uuml;pdate."
+
+#: post-page-notes.php:51
+msgid "An error occurred while updating, please try again."
+msgstr "Er is een fout opgetreden tijden het updaten, probeer het opnieuw."
+
+#: post-page-notes.php:75
+#: post-page-notes.php:87
+msgid "Header note"
+msgstr "Kop noot"
+
+#: post-page-notes.php:80
+#: post-page-notes.php:100
+msgid "Show on"
+msgstr "Weergeven in"
+
+#: post-page-notes.php:81
+#: post-page-notes.php:101
+msgid "Post"
+msgstr "Bericht"
+
+#: post-page-notes.php:81
+#: post-page-notes.php:101
+msgid "Page"
+msgstr "Pagina"
+
+#: post-page-notes.php:87
+msgid "Type the text you want to place above the post (you can use HTML)."
+msgstr "Typ de tekst die je boven het bericht wilt plaatsen (je kan HTML gebruiken)."
+
+#: post-page-notes.php:95
+#: post-page-notes.php:107
+msgid "Footer note"
+msgstr "Voet noot"
+
+#: post-page-notes.php:107
+msgid "Type the text you want to place under the post (you can use HTML)."
+msgstr "Typ de tekst die je onder het bericht wilt plaatsen (je kan HTML gebruiken)."
+
+#: post-page-notes.php:114
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: post-page-notes.php:117
+msgid "Information"
+msgstr "Informatie"
+
+#: post-page-notes.php:119
+msgid "Thanks for using this plugin."
+msgstr "Bedankt voor het gebruiken van deze plugin."
+
+#: post-page-notes.php:120
+#, php-format
+msgid "I like to get some feedback on this plugin, you can visit the %splugin page%s and write a comment.  Also when you have a question or suggestion you can visit that page."
+msgstr "Ik zou het leuk vinden om reacties op deze plugin te krijgen, je kan de %splugin pagina%s bezoeken om een reactie te schrijven. Ook als je een vraag of suggestie hebt kun je die pagina bezoeken."
+

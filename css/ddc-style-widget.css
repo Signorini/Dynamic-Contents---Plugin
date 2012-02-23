@@ -1,0 +1,44 @@
+.box_page_note {
+   background: none repeat scroll 0 0 #d2e8f6;
+    border: 1px solid #D2E8F6;
+    clear: both;
+    display: block;
+    padding: 5px 11px 12px 12px;
+    width: 659px;
+    margin: 5px 0 10px;
+    float:left;
+}
+
+
+.box_page_note img.thumbppnote {
+float:left;  
+margin:7px 12px 0 0;
+}
+
+.box_page_note div.wrapperppnote {
+margin:0 0 0 10px;
+padding:0;
+float:left;
+
+}
+
+#single-page .box_page_note .tituloBox {
+  font-size:18px;
+  font-weight:bold;
+color: #B91515;
+}
+
+#single-page .box_page_note .tituloBox {
+  font-size:18px;
+  font-weight:bold;
+color: #B91515;
+}
+
+#single-page .box_page_note .tituloBox {
+  font-size:18px;
+  font-weight:bold;
+color: #B91515;
+}
+
+
+

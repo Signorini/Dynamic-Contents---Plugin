@@ -1,0 +1,67 @@
+
+/* --- metabox --- */
+
+.my_meta_control label
+{ display:inline; font-weight:bold; margin:2px 0;}
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999;}
+ 
+.my_meta_control .ddc-wrapper {
+	padding:25px 0 35px 0;
+	border-bottom:1px solid #c0c0c0;
+	display:block;
+	width:100%;
+}
+
+.my_meta_control .ddc-wrapper .ddc-wrapper {
+	margin:10px 0 0 0;
+	padding:0;
+	border:none;
+}
+ 
+.my_meta_control .ddc-textaera, .my_meta_control .ddc-text
+{ margin:0; width:99%; }
+
+.my_meta_control .ddc-radio, .my_meta_control .ddc-check {
+	margin:0;
+	clear:none;
+	display:inline;
+}
+
+.label-left {
+	
+	display:inline;
+}
+ 
+
+.my_meta_control .filter-wrapper {
+	display:block;
+	width:100%;
+}
+
+.ddc-left-filter {
+	display:inline-block;
+	width:40%;
+}
+
+.ddc-right-filter {
+	display:inline-block;
+	width:40%;
+}
+
+.ddc-hide {
+	display:none;
+}
+
+.ddc-bt {
+	float:right;
+	margin: 3px -20px 0 0;
+}
+
+.checkers {
+	margin:0 0 0 10px;
+}
